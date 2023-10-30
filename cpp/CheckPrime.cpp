@@ -4,6 +4,8 @@ int main() {
     int n;
     cout << "Enter a number: ";
     cin >> n;
+
+    // METHOD 1
     bool flag = true;
     if (n <= 1){
         cout << "Not Prime";
@@ -23,4 +25,18 @@ int main() {
         cout << "Not Prime";
     }
     
+    // METHOD 2
+    if (n <= 1){
+        cout << "Not Prime";
+    }
+    else{
+        for (int i=2; i < n; i++){
+            if (n % i == 0){
+                cout << "Not Prime";
+                return 0;
+            }
+        }
+    }
+    cout << "Prime";
+    return 0;
 }
