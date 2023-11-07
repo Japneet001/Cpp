@@ -1,3 +1,4 @@
+// CHECK WHETHER A NUMBER IS PRIME OR NOT
 #include <iostream>
 using namespace std;
 int main() {
