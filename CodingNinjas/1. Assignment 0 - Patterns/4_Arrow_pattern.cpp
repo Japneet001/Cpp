@@ -1,4 +1,4 @@
-/* PATTERN 4: NUMBER PATTERN
+/* PATTERN 4: ARROW PATTERN
     For n=7
         *
          **
