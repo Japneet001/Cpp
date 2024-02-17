@@ -4,7 +4,7 @@ using namespace std;
 
 // } Driver Code Ends
 class Solution
-{
+{ 
     public:
     int firstocc(int arr[], int n, int x){
         int start = 0;
