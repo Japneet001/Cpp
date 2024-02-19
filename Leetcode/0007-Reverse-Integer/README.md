@@ -1,5 +1,5 @@
 <h2>
-    <a href="hhttps://leetcode.com/problems/reverse-integer">
+    <a href="https://leetcode.com/problems/reverse-integer">
         7. Reverse Integer
     </a>
 </h2>
