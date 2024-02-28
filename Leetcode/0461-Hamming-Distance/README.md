@@ -1,0 +1,41 @@
+<h2>
+    <a href="https://leetcode.com/problems/hamming-distance">
+        461. Hamming Distance
+    </a>
+</h2>
+
+<h3>Easy</h3>
+<hr>
+<p>
+
+The Hamming distance between two integers is the number of positions at which the corresponding bits are different.
+
+Given two integers <code>x</code> and <code>y</code>, return <em>the <strong>Hamming distance</strong> between them</em>.
+</p>
+
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
+
+<pre>
+<strong>Input:</strong> x = 1, y = 4
+<strong>Output:</strong> 2
+<strong>Explanation:</strong> 
+1   (0 0 0 1)
+4   (0 1 0 0)
+       ↑   ↑
+The above arrows point to positions where the corresponding bits are different.
+</pre>
+
+<p><strong class="example">Example 2:</strong></p>
+
+<pre>
+<strong>Input:</strong> x = 3, y = 1
+<strong>Output:</strong> 1
+</pre>
+
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+<ul>
+	<li><code>0 <= x, y <= 2<sup>31</sup> - 1</code></li>
+</ul>
