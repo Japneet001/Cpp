@@ -1,6 +1,6 @@
 <h2>
     <a href="https://leetcode.com/problems/palindrome-number">
-        201. Bitwise AND of Numbers Range
+        9. Palindrome Number
     </a>
 </h2>
 
